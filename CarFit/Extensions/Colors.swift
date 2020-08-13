@@ -14,5 +14,5 @@ extension UIColor {
     static let inProgressOption = UIColor(red: 240/255.0, green: 198/255.0, blue: 23/255.0, alpha: 1.0)
     static let todoOption = UIColor(red: 91/255.0, green: 127/255.0, blue: 224/255.0, alpha: 1.0)
     static let rejectedOption = UIColor(red: 239/255.0, green: 101/255.0, blue: 101/255.0, alpha: 1.0)
-    
+     static let redColor = UIColor(red: 255/255.0, green: 0/255.0, blue: 0/255.0, alpha: 1.0)
 }
